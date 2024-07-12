@@ -1,5 +1,5 @@
 # 240708 - .NET
-Welcome to 240401 .NET training! Here you'll find useful information for this training.
+Welcome to 240708 .NET training! Here you'll find useful information for this training.
 
 ## Table of Contents
 - [General Training Information](#general)
