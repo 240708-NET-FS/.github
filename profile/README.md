@@ -24,7 +24,7 @@ Welcome to 240708 .NET training! Here you'll find useful information for this tr
 - *Coming Soon*
 ## <a name="installs"></a>Software Install Links
 Install the following software by the day listed below.
-### Week 1 Day 1 (4/1/24)
+### Week 1 Day 1 (07/08/24)
 - .NET SDK: https://dotnet.microsoft.com/en-us/download
 - Visual Studio Code: https://code.visualstudio.com/
 - *only for windows users* Git for Windows: https://git-scm.com/download/win (For mac and linux users, git comes preinstalled)
