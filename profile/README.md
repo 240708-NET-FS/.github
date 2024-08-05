@@ -19,6 +19,8 @@ Welcome to 240708 .NET training! Here you'll find useful information for this tr
 - <a href="mailto:jonathan.delacruz@revature.com" target="_blank" rel="noopener noreferrer">Email Jonathan</a> jonathan.delacruz@revature.com: For absences. For training content related questions please bring them up during training or message me on Teams
 - <a href="mailto:qc@revature.com" target="_blank" rel="noopener noreferrer">Email QC</a> qc@revature.com: For any assessment related queries. *feel free to cc me*
 - <a href="mailto:it@revature.com" target="_blank" rel="noopener noreferrer">Email IT</a> it@revature.com: For any access issues *feel free to cc me*
+- <a href="https://revaturelabs.github.io/Portfolio-Reference-Documents/" target="_blank" rel="noopener noreferrer">Portfolio Guide</a>
+- <a href="https://app.revature.com/profile/M4rkf0ns/3e943b67174c08635f634d10163c3bfa" target="_blank" rel="noopener noreferrer">Example Portfolio</a>
 
 ## <a name="projects"></a>Project Specs
 - *Coming Soon*
